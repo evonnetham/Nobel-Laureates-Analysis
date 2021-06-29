@@ -7,5 +7,13 @@ Between 1901 and 2016, the Nobel Prizes and the Prize in Economic Sciences were 
 
 The first Nobel Prize was handed out in 1901, and at that time the prize was Eurocentric and male-focused, but nowadays it's not biased in any way. Surely, right? Well, let's find out! What characteristics do the prize winners have? Which country gets it most often? And has anybody gotten it twice? 
 
+### Tools and Libraries Used
+Pandas, Numpy, Matplotlib, Seaborn
+
 #### Data Source
 The [dataset](https://www.kaggle.com/nobelfoundation/nobel-laureates) used in this project is from The Nobel Foundation on Kaggle, which was acquired from the Nobel Prize API.
+
+### Conclusion
+The most common Nobel laureate between 1901 and 2016 was a man leading to a significant imbalance between man and woman especially in physics, economics, and chemistry. We also see that people use to be around 55 when they received the price, but nowadays the average is closer to 65, with a larger spread in the laureates' ages. 
+
+The oldest person who ever won a Nobel prize goes to Leonid Hurwicz "for having laid the foundations of mechanism design theory". And the youngest winner ever who in 2014 got the prize for "her struggle against the suppression of children and young people and for the right of all children to education" goes to Malala Yousafzai.
